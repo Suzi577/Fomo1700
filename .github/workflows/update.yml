@@ -1,0 +1,21 @@
+name: Update FOMO Events Daily
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python quicket_importer.py
+      - run: |
+          git config user.name "FOMO Bot"
+          git config user.email "bot@fomo.gq"
+          git add events.json || true
+          git commit -m "auto update" || true
+          git push
