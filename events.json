@@ -1,126 +1,290 @@
 [
   {
+    "id": "boardwalk-summer-sunset-market",
     "name": "Boardwalk Summer Sunset Market",
+    "title": "Boardwalk Summer Sunset Market",
+    "category": "market",
     "start_time": "2026-09-13T16:00:00+02:00",
-    "place": "Boardwalk Mall, Summerstrand"
+    "place": "Boardwalk Mall, Summerstrand",
+    "location": "Boardwalk Mall, Summerstrand",
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "going": 186,
+    "distance_km": 1.4
   },
   {
+    "id": "donkin-street-food-night-marke",
     "name": "Donkin Street Food Night Market",
+    "title": "Donkin Street Food Night Market",
+    "category": "market",
     "start_time": "2026-09-20T17:00:00+02:00",
-    "place": "Donkin Reserve, Central"
+    "place": "Donkin Reserve, Central",
+    "location": "Donkin Reserve, Central",
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "going": 134,
+    "distance_km": 0.7
   },
   {
+    "id": "pollok-beach-sunrise-yoga-&-sw",
     "name": "Pollok Beach Sunrise Yoga & Swim",
+    "title": "Pollok Beach Sunrise Yoga & Swim",
+    "category": "wellness",
     "start_time": "2026-09-21T06:30:00+02:00",
-    "place": "Pollok Beach, Summerstrand"
+    "place": "Pollok Beach, Summerstrand",
+    "location": "Pollok Beach, Summerstrand",
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "going": 107,
+    "distance_km": 1.5
   },
   {
+    "id": "baywest-mall-spring-carnival",
     "name": "Baywest Mall Spring Carnival",
+    "title": "Baywest Mall Spring Carnival",
+    "category": "festival",
     "start_time": "2026-09-27T10:00:00+02:00",
-    "place": "Baywest Mall"
+    "place": "Baywest Mall",
+    "location": "Baywest Mall",
+    "image_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400",
+    "going": 114,
+    "distance_km": 1.2
   },
   {
+    "id": "the-grand-hotel-live:-dj-night",
     "name": "The Grand Hotel Live: DJ Night",
+    "title": "The Grand Hotel Live: DJ Night",
+    "category": "nightlife",
     "start_time": "2026-10-03T20:00:00+02:00",
-    "place": "The Grand Hotel, Summerstrand"
+    "place": "The Grand Hotel, Summerstrand",
+    "location": "The Grand Hotel, Summerstrand",
+    "image_url": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=400",
+    "going": 101,
+    "distance_km": 0.4
   },
   {
+    "id": "st-george's-park-parkrun-+-cof",
     "name": "St George's Park Parkrun + Coffee",
+    "title": "St George's Park Parkrun + Coffee",
+    "category": "wellness",
     "start_time": "2026-10-04T08:00:00+02:00",
-    "place": "St George's Park"
+    "place": "St George's Park",
+    "location": "St George's Park",
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "going": 70,
+    "distance_km": 1.3
   },
   {
+    "id": "summerstrand-village-music-fes",
     "name": "Summerstrand Village Music Festival",
+    "title": "Summerstrand Village Music Festival",
+    "category": "festival",
     "start_time": "2026-10-11T14:00:00+02:00",
-    "place": "Village Green, Summerstrand"
+    "place": "Village Green, Summerstrand",
+    "location": "Village Green, Summerstrand",
+    "image_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400",
+    "going": 195,
+    "distance_km": 0.3
   },
   {
+    "id": "pe-harbour-boat-cruise-party",
     "name": "PE Harbour Boat Cruise Party",
+    "title": "PE Harbour Boat Cruise Party",
+    "category": "nightlife",
     "start_time": "2026-10-18T17:00:00+02:00",
-    "place": "PE Harbour"
+    "place": "PE Harbour",
+    "location": "PE Harbour",
+    "image_url": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=400",
+    "going": 201,
+    "distance_km": 0.9
   },
   {
+    "id": "boardwalk-casino-halloween-par",
     "name": "Boardwalk Casino Halloween Party",
+    "title": "Boardwalk Casino Halloween Party",
+    "category": "nightlife",
     "start_time": "2026-10-31T20:00:00+02:00",
-    "place": "Boardwalk Casino"
+    "place": "Boardwalk Casino",
+    "location": "Boardwalk Casino",
+    "image_url": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=400",
+    "going": 73,
+    "distance_km": 1.1
   },
   {
+    "id": "the-beer-yard-tap-takeover",
     "name": "The Beer Yard Tap Takeover",
+    "title": "The Beer Yard Tap Takeover",
+    "category": "food",
     "start_time": "2026-11-07T18:00:00+02:00",
-    "place": "The Beer Yard, Richmond Hill"
+    "place": "The Beer Yard, Richmond Hill",
+    "location": "The Beer Yard, Richmond Hill",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+    "going": 65,
+    "distance_km": 0.3
   },
   {
+    "id": "nelson-mandela-bay-half-marath",
     "name": "Nelson Mandela Bay Half Marathon",
+    "title": "Nelson Mandela Bay Half Marathon",
+    "category": "wellness",
     "start_time": "2026-11-08T06:00:00+02:00",
-    "place": "Beachfront"
+    "place": "Beachfront",
+    "location": "Beachfront",
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "going": 162,
+    "distance_km": 0.5
   },
   {
+    "id": "donkin-first-fridays-art-walk",
     "name": "Donkin First Fridays Art Walk",
+    "title": "Donkin First Fridays Art Walk",
+    "category": "festival",
     "start_time": "2026-11-14T17:30:00+02:00",
-    "place": "Route 67, Central"
+    "place": "Route 67, Central",
+    "location": "Route 67, Central",
+    "image_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400",
+    "going": 163,
+    "distance_km": 0.6
   },
   {
+    "id": "baywest-black-friday-night-mar",
     "name": "Baywest Black Friday Night Market",
+    "title": "Baywest Black Friday Night Market",
+    "category": "market",
     "start_time": "2026-11-28T18:00:00+02:00",
-    "place": "Baywest Mall Outdoor"
+    "place": "Baywest Mall Outdoor",
+    "location": "Baywest Mall Outdoor",
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "going": 202,
+    "distance_km": 1.5
   },
   {
+    "id": "sardinia-bay-beach-cleanup-&-b",
     "name": "Sardinia Bay Beach Cleanup & Braai",
+    "title": "Sardinia Bay Beach Cleanup & Braai",
+    "category": "wellness",
     "start_time": "2026-12-05T08:30:00+02:00",
-    "place": "Sardinia Bay Beach"
+    "place": "Sardinia Bay Beach",
+    "location": "Sardinia Bay Beach",
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "going": 236,
+    "distance_km": 0.4
   },
   {
+    "id": "boardwalk-christmas-market",
     "name": "Boardwalk Christmas Market",
+    "title": "Boardwalk Christmas Market",
+    "category": "market",
     "start_time": "2026-12-12T10:00:00+02:00",
-    "place": "Boardwalk, Summerstrand"
+    "place": "Boardwalk, Summerstrand",
+    "location": "Boardwalk, Summerstrand",
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "going": 177,
+    "distance_km": 1.5
   },
   {
+    "id": "the-grand-nye-countdown-gala",
     "name": "The Grand NYE Countdown Gala",
+    "title": "The Grand NYE Countdown Gala",
+    "category": "nightlife",
     "start_time": "2026-12-31T19:00:00+02:00",
-    "place": "The Grand Hotel, Beachfront"
+    "place": "The Grand Hotel, Beachfront",
+    "location": "The Grand Hotel, Beachfront",
+    "image_url": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=400",
+    "going": 223,
+    "distance_km": 1.1
   },
   {
+    "id": "pollok-beach-nyd-splash",
     "name": "Pollok Beach NYD Splash",
+    "title": "Pollok Beach NYD Splash",
+    "category": "wellness",
     "start_time": "2027-01-01T10:00:00+02:00",
-    "place": "Pollok Beach"
+    "place": "Pollok Beach",
+    "location": "Pollok Beach",
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "going": 131,
+    "distance_km": 0.4
   },
   {
+    "id": "kragga-kamma-mtb-day",
     "name": "Kragga Kamma MTB Day",
+    "title": "Kragga Kamma MTB Day",
+    "category": "wellness",
     "start_time": "2026-09-28T07:00:00+02:00",
-    "place": "Kragga Kamma Game Park"
+    "place": "Kragga Kamma Game Park",
+    "location": "Kragga Kamma Game Park",
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "going": 190,
+    "distance_km": 1.3
   },
   {
+    "id": "richmond-hill-brewing-street-f",
     "name": "Richmond Hill Brewing Street Fest",
+    "title": "Richmond Hill Brewing Street Fest",
+    "category": "event",
     "start_time": "2026-10-25T12:00:00+02:00",
-    "place": "Stanley Street, Richmond Hill"
+    "place": "Stanley Street, Richmond Hill",
+    "location": "Stanley Street, Richmond Hill",
+    "image_url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400",
+    "going": 165,
+    "distance_km": 1.3
   },
   {
+    "id": "schoenmakerskop-sunset-market",
     "name": "Schoenmakerskop Sunset Market",
+    "title": "Schoenmakerskop Sunset Market",
+    "category": "market",
     "start_time": "2026-11-22T16:00:00+02:00",
-    "place": "Schoenmakerskop"
+    "place": "Schoenmakerskop",
+    "location": "Schoenmakerskop",
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "going": 192,
+    "distance_km": 1.5
   },
   {
+    "id": "the-beer-yard---r79-burger-tue",
     "name": "The Beer Yard - R79 Burger Tuesday + Craft Beer Special",
+    "title": "The Beer Yard - R79 Burger Tuesday + Craft Beer Special",
+    "category": "food",
     "start_time": "2026-08-22T17:00:00+02:00",
     "place": "Baakens Valley",
-    "category": "food"
+    "location": "Baakens Valley",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+    "going": 192,
+    "distance_km": 1.0
   },
   {
+    "id": "barney's-tavern---2for1-pizza-",
     "name": "Barney's Tavern - 2for1 Pizza Monday & Burger R99",
+    "title": "Barney's Tavern - 2for1 Pizza Monday & Burger R99",
+    "category": "food",
     "start_time": "2026-08-23T17:00:00+02:00",
     "place": "Walmer, 6th Ave",
-    "category": "food"
+    "location": "Walmer, 6th Ave",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+    "going": 133,
+    "distance_km": 1.6
   },
   {
+    "id": "cubata---ladies-night-thu-\u2022-2f",
     "name": "Cubata - Ladies Night Thu \u2022 2for1 Cocktails 6-9pm",
+    "title": "Cubata - Ladies Night Thu \u2022 2for1 Cocktails 6-9pm",
+    "category": "food",
     "start_time": "2026-08-24T20:00:00+02:00",
     "place": "Richmond Hill",
-    "category": "food"
+    "location": "Richmond Hill",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+    "going": 103,
+    "distance_km": 1.1
   },
   {
+    "id": "ginger---sushi-special-wed-\u2022-r",
     "name": "Ginger - Sushi Special Wed \u2022 R99 8pc",
+    "title": "Ginger - Sushi Special Wed \u2022 R99 8pc",
+    "category": "food",
     "start_time": "2026-08-25T18:00:00+02:00",
     "place": "Summerstrand",
-    "category": "food"
+    "location": "Summerstrand",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+    "going": 231,
+    "distance_km": 0.9
   }
 ]
