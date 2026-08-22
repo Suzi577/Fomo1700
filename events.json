@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Boardwalk Summer Sunset Market",
+    "start_time": "2026-09-13T16:00:00+02:00",
+    "place": "Boardwalk Mall, Summerstrand"
+  },
+  {
+    "name": "Donkin Street Food Night Market",
+    "start_time": "2026-09-20T17:00:00+02:00",
+    "place": "Donkin Reserve, Central"
+  },
+  {
+    "name": "Pollok Beach Sunrise Yoga & Swim",
+    "start_time": "2026-09-21T06:30:00+02:00",
+    "place": "Pollok Beach, Summerstrand"
+  },
+  {
+    "name": "Baywest Mall Spring Carnival",
+    "start_time": "2026-09-27T10:00:00+02:00",
+    "place": "Baywest Mall"
+  },
+  {
+    "name": "The Grand Hotel Live: DJ Night",
+    "start_time": "2026-10-03T20:00:00+02:00",
+    "place": "The Grand Hotel, Summerstrand"
+  },
+  {
+    "name": "St George's Park Parkrun + Coffee",
+    "start_time": "2026-10-04T08:00:00+02:00",
+    "place": "St George's Park"
+  },
+  {
+    "name": "Summerstrand Village Music Festival",
+    "start_time": "2026-10-11T14:00:00+02:00",
+    "place": "Village Green, Summerstrand"
+  },
+  {
+    "name": "PE Harbour Boat Cruise Party",
+    "start_time": "2026-10-18T17:00:00+02:00",
+    "place": "PE Harbour"
+  },
+  {
+    "name": "Boardwalk Casino Halloween Party",
+    "start_time": "2026-10-31T20:00:00+02:00",
+    "place": "Boardwalk Casino"
+  },
+  {
+    "name": "The Beer Yard Tap Takeover",
+    "start_time": "2026-11-07T18:00:00+02:00",
+    "place": "The Beer Yard, Richmond Hill"
+  },
+  {
+    "name": "Nelson Mandela Bay Half Marathon",
+    "start_time": "2026-11-08T06:00:00+02:00",
+    "place": "Beachfront"
+  },
+  {
+    "name": "Donkin First Fridays Art Walk",
+    "start_time": "2026-11-14T17:30:00+02:00",
+    "place": "Route 67, Central"
+  },
+  {
+    "name": "Baywest Black Friday Night Market",
+    "start_time": "2026-11-28T18:00:00+02:00",
+    "place": "Baywest Mall Outdoor"
+  },
+  {
+    "name": "Sardinia Bay Beach Cleanup & Braai",
+    "start_time": "2026-12-05T08:30:00+02:00",
+    "place": "Sardinia Bay Beach"
+  },
+  {
+    "name": "Boardwalk Christmas Market",
+    "start_time": "2026-12-12T10:00:00+02:00",
+    "place": "Boardwalk, Summerstrand"
+  },
+  {
+    "name": "The Grand NYE Countdown Gala",
+    "start_time": "2026-12-31T19:00:00+02:00",
+    "place": "The Grand Hotel, Beachfront"
+  },
+  {
+    "name": "Pollok Beach NYD Splash",
+    "start_time": "2027-01-01T10:00:00+02:00",
+    "place": "Pollok Beach"
+  },
+  {
+    "name": "Kragga Kamma MTB Day",
+    "start_time": "2026-09-28T07:00:00+02:00",
+    "place": "Kragga Kamma Game Park"
+  },
+  {
+    "name": "Richmond Hill Brewing Street Fest",
+    "start_time": "2026-10-25T12:00:00+02:00",
+    "place": "Stanley Street, Richmond Hill"
+  },
+  {
+    "name": "Schoenmakerskop Sunset Market",
+    "start_time": "2026-11-22T16:00:00+02:00",
+    "place": "Schoenmakerskop"
+  },
+  {
+    "name": "The Beer Yard - R79 Burger Tuesday + Craft Beer Special",
+    "start_time": "2026-08-22T17:00:00+02:00",
+    "place": "Baakens Valley",
+    "category": "food"
+  },
+  {
+    "name": "Barney's Tavern - 2for1 Pizza Monday & Burger R99",
+    "start_time": "2026-08-23T17:00:00+02:00",
+    "place": "Walmer, 6th Ave",
+    "category": "food"
+  },
+  {
+    "name": "Cubata - Ladies Night Thu \u2022 2for1 Cocktails 6-9pm",
+    "start_time": "2026-08-24T20:00:00+02:00",
+    "place": "Richmond Hill",
+    "category": "food"
+  },
+  {
+    "name": "Ginger - Sushi Special Wed \u2022 R99 8pc",
+    "start_time": "2026-08-25T18:00:00+02:00",
+    "place": "Summerstrand",
+    "category": "food"
+  }
+]
