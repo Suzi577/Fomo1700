@@ -1,5 +1,57 @@
 [
   {
+    "id": "the-beer-yard---r79-burger-tuesday-+-cra",
+    "name": "The Beer Yard - R79 Burger Tuesday + Craft Beer Special",
+    "title": "The Beer Yard - R79 Burger Tuesday + Craft Beer Special",
+    "category": "food",
+    "start_time": "2026-08-22T17:00:00+02:00",
+    "place": "Baakens Valley",
+    "location": "Baakens Valley",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "going": 108,
+    "distance_km": 2.0
+  },
+  {
+    "id": "barney's-tavern---2for1-pizza-monday-&-b",
+    "name": "Barney's Tavern - 2for1 Pizza Monday & Burger R99",
+    "title": "Barney's Tavern - 2for1 Pizza Monday & Burger R99",
+    "category": "food",
+    "start_time": "2026-08-23T17:00:00+02:00",
+    "place": "Walmer, 6th Ave",
+    "location": "Walmer, 6th Ave",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "going": 120,
+    "distance_km": 1.2
+  },
+  {
+    "id": "cubata---ladies-night-thu--2for1-cocktai",
+    "name": "Cubata - Ladies Night Thu \u2022 2for1 Cocktails 6-9pm",
+    "title": "Cubata - Ladies Night Thu \u2022 2for1 Cocktails 6-9pm",
+    "category": "nightlife",
+    "start_time": "2026-08-24T20:00:00+02:00",
+    "place": "Richmond Hill",
+    "location": "Richmond Hill",
+    "image_url": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=600",
+    "image": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=600",
+    "going": 117,
+    "distance_km": 1.9
+  },
+  {
+    "id": "ginger---sushi-special-wed--r99-8pc",
+    "name": "Ginger - Sushi Special Wed \u2022 R99 8pc",
+    "title": "Ginger - Sushi Special Wed \u2022 R99 8pc",
+    "category": "food",
+    "start_time": "2026-08-25T18:00:00+02:00",
+    "place": "Summerstrand",
+    "location": "Summerstrand",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "going": 227,
+    "distance_km": 1.9
+  },
+  {
     "id": "boardwalk-summer-sunset-market",
     "name": "Boardwalk Summer Sunset Market",
     "title": "Boardwalk Summer Sunset Market",
@@ -50,6 +102,19 @@
     "image": "https://images.unsplash.com/photo-1606092195730-5d7b9af1ef0c?w=600",
     "going": 99,
     "distance_km": 2.1
+  },
+  {
+    "id": "kragga-kamma-mtb-day",
+    "name": "Kragga Kamma MTB Day",
+    "title": "Kragga Kamma MTB Day",
+    "category": "sports",
+    "start_time": "2026-09-28T07:00:00+02:00",
+    "place": "Kragga Kamma Game Park",
+    "location": "Kragga Kamma Game Park",
+    "image_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600",
+    "going": 83,
+    "distance_km": 0.5
   },
   {
     "id": "the-grand-hotel-live-dj-night",
@@ -104,6 +169,19 @@
     "distance_km": 1.9
   },
   {
+    "id": "richmond-hill-brewing-street-fest",
+    "name": "Richmond Hill Brewing Street Fest",
+    "title": "Richmond Hill Brewing Street Fest",
+    "category": "festivals",
+    "start_time": "2026-10-25T12:00:00+02:00",
+    "place": "Stanley Street, Richmond Hill",
+    "location": "Stanley Street, Richmond Hill",
+    "image_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=600",
+    "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=600",
+    "going": 72,
+    "distance_km": 0.4
+  },
+  {
     "id": "boardwalk-casino-halloween-party",
     "name": "Boardwalk Casino Halloween Party",
     "title": "Boardwalk Casino Halloween Party",
@@ -154,6 +232,19 @@
     "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=600",
     "going": 224,
     "distance_km": 1.6
+  },
+  {
+    "id": "schoenmakerskop-sunset-market",
+    "name": "Schoenmakerskop Sunset Market",
+    "title": "Schoenmakerskop Sunset Market",
+    "category": "food",
+    "start_time": "2026-11-22T16:00:00+02:00",
+    "place": "Schoenmakerskop",
+    "location": "Schoenmakerskop",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+    "going": 168,
+    "distance_km": 1.0
   },
   {
     "id": "baywest-black-friday-night-market",
@@ -219,96 +310,5 @@
     "image": "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=600",
     "going": 137,
     "distance_km": 0.9
-  },
-  {
-    "id": "kragga-kamma-mtb-day",
-    "name": "Kragga Kamma MTB Day",
-    "title": "Kragga Kamma MTB Day",
-    "category": "sports",
-    "start_time": "2026-09-28T07:00:00+02:00",
-    "place": "Kragga Kamma Game Park",
-    "location": "Kragga Kamma Game Park",
-    "image_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600",
-    "going": 83,
-    "distance_km": 0.5
-  },
-  {
-    "id": "richmond-hill-brewing-street-fest",
-    "name": "Richmond Hill Brewing Street Fest",
-    "title": "Richmond Hill Brewing Street Fest",
-    "category": "festivals",
-    "start_time": "2026-10-25T12:00:00+02:00",
-    "place": "Stanley Street, Richmond Hill",
-    "location": "Stanley Street, Richmond Hill",
-    "image_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=600",
-    "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=600",
-    "going": 72,
-    "distance_km": 0.4
-  },
-  {
-    "id": "schoenmakerskop-sunset-market",
-    "name": "Schoenmakerskop Sunset Market",
-    "title": "Schoenmakerskop Sunset Market",
-    "category": "food",
-    "start_time": "2026-11-22T16:00:00+02:00",
-    "place": "Schoenmakerskop",
-    "location": "Schoenmakerskop",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "going": 168,
-    "distance_km": 1.0
-  },
-  {
-    "id": "the-beer-yard---r79-burger-tuesday-+-cra",
-    "name": "The Beer Yard - R79 Burger Tuesday + Craft Beer Special",
-    "title": "The Beer Yard - R79 Burger Tuesday + Craft Beer Special",
-    "category": "food",
-    "start_time": "2026-08-22T17:00:00+02:00",
-    "place": "Baakens Valley",
-    "location": "Baakens Valley",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "going": 108,
-    "distance_km": 2.0
-  },
-  {
-    "id": "barney's-tavern---2for1-pizza-monday-&-b",
-    "name": "Barney's Tavern - 2for1 Pizza Monday & Burger R99",
-    "title": "Barney's Tavern - 2for1 Pizza Monday & Burger R99",
-    "category": "food",
-    "start_time": "2026-08-23T17:00:00+02:00",
-    "place": "Walmer, 6th Ave",
-    "location": "Walmer, 6th Ave",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "going": 120,
-    "distance_km": 1.2
-  },
-  {
-    "id": "cubata---ladies-night-thu--2for1-cocktai",
-    "name": "Cubata - Ladies Night Thu \u2022 2for1 Cocktails 6-9pm",
-    "title": "Cubata - Ladies Night Thu \u2022 2for1 Cocktails 6-9pm",
-    "category": "nightlife",
-    "start_time": "2026-08-24T20:00:00+02:00",
-    "place": "Richmond Hill",
-    "location": "Richmond Hill",
-    "image_url": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=600",
-    "image": "https://images.unsplash.com/photo-1516450360452-9312abbf6f7e?w=600",
-    "going": 117,
-    "distance_km": 1.9
-  },
-  {
-    "id": "ginger---sushi-special-wed--r99-8pc",
-    "name": "Ginger - Sushi Special Wed \u2022 R99 8pc",
-    "title": "Ginger - Sushi Special Wed \u2022 R99 8pc",
-    "category": "food",
-    "start_time": "2026-08-25T18:00:00+02:00",
-    "place": "Summerstrand",
-    "location": "Summerstrand",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
-    "going": 227,
-    "distance_km": 1.9
   }
 ]
