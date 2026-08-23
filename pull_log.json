@@ -1,0 +1,21 @@
+{
+  "pulled_at": "2026-08-23T19:48:49.422994",
+  "total": 24,
+  "new_events": 7,
+  "by_source": {
+    "google": 5,
+    "instagram": 4,
+    "facebook": 5,
+    "quicket": 10
+  },
+  "by_category": {
+    "food": 3,
+    "outdoors": 3,
+    "nightlife": 5,
+    "music": 6,
+    "sports": 1,
+    "festivals": 6
+  },
+  "spotify_enriched": 6,
+  "menu_extracted": 8
+}
