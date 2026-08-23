@@ -1,0 +1,30 @@
+name: Pull Events Enriched - FREE 100+
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - name: Pull Quicket
+        run: if [ -f pull_quicket.py ]; then python pull_quicket.py; fi
+        continue-on-error: true
+      - name: Pull FREE 100+ OSM
+        run: python pull_osm_free.py
+      - name: Commit
+        run: |
+          git config user.name "fomo-bot"
+          git config user.email "bot@fomo1700.com"
+          git add events.json
+          git diff --cached --quiet || git commit -m "100+ FREE events"
+          git push
